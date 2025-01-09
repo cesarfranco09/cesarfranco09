@@ -1,12 +1,12 @@
 <h1>Hi 👋, I'm Cesar Franco</h1>
 <p>📚 Education:<br>  
-    -Currently studying Computer Science at Pasadena City College.<br>
-    - Bootcamp Graduate: Successfully completed the App Academy Bootcamp, focusing on full-stack development.<br>  
+&nbsp;&nbsp;- Currently studying Computer Science at Pasadena City College.<br>
+&nbsp;&nbsp;- Bootcamp Graduate: Successfully completed the App Academy Bootcamp, focusing on full-stack development.<br>  
   💼 Experience:<br>
-    - 1.5 years of internship experience as a Junior Software Developer. <br>
+&nbsp;&nbsp;- 1.5 years of internship experience as a Junior Software Developer. <br>
   📧 Contact:<br> 
-    - Email: cesarfranco0909@hotmail.com<br> 
-    - LinkedIn: linkedin.com/in/cesarfrancof<br></p>
+&nbsp;&nbsp;- Email: cesarfranco0909@hotmail.com<br> 
+&nbsp;&nbsp;- LinkedIn: linkedin.com/in/cesarfrancof<br></p>
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
