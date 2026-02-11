@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Cesar Franco</h1>
 <p>📚 Education:<br>  
-&nbsp;&nbsp;- Currently studying Computer Science at Pasadena City College.<br>
+&nbsp;&nbsp;- Currently studying Cybersecurity at Pasadena City College.<br>
 &nbsp;&nbsp;- Bootcamp Graduate: Successfully completed the App Academy Bootcamp, focusing on full-stack development.<br>  
   💼 Experience:<br>
 &nbsp;&nbsp;- 1.5 years of internship experience as a Junior Software Developer. <br>
